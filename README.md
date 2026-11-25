@@ -1,4 +1,4 @@
-# Hai, saya Zaky 👋
+# Hai, saya Zaky 
 
 Fresh Graduate jurusan Teknik Informatika di Universitas Negeri Surabaya yang fokus ke pengembangan website dan aplikasi website serta Optimasi SEO.
 
